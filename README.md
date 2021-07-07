@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asdfg123123R
+- 👋 Hi, I’m Roman Kulakov
 - 👀 I’m interested in save data
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
